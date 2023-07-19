@@ -1,3 +1,4 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 # To-Do App
 
 The To-Do App is a simple web application designed to help users manage their tasks and create a personalized to-do list. Users can add, update, and delete tasks as needed, providing a seamless and efficient task management experience.
